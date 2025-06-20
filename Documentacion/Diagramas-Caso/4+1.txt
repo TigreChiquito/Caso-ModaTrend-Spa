@@ -1,0 +1,11 @@
+Dentro de este apartado se encuentran los respectivos diagramas relacionados al proyecto de software anteriormente descrito. Siendo estos:
+
+1.- Diagrama de Actividad: Ilustracion y representacion visual de las acciones, restricciones y requisitos junto a otros factores que intervienen en el flujo de las tareas.
+
+2.- Diagrama de Casos de Uso:
+
+3.- Diagrama de componenetes:
+
+4.- Diagrama de Clases:
+
+5.- Diagrama de Despliegue:
