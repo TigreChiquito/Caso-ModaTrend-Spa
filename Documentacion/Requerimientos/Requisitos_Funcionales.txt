@@ -1,0 +1,21 @@
+En este apartado se profundiza a mayor detalle en los principales requisitos funcionales del sistema. Los cuales son los siguientes:
+
+R1.- Sincronización de stock: Se solicitó que el stock online y físico estén vinculados, de manera que si se realiza una compra de manera física u online, esta sea reflejada en ambos lados.
+
+R2.- Recomendaciones basado en historial: Al momento de estar navegando se pide que las recomendaciones de productos sean basados en el historial de compras en caso de existir.
+
+R3.- Sistema “ Click & Collect ”: Se requiere la compatibilidad con la mecánica click and collect de manera que puedan reservarse productos de una sucursal para posteriormente ser retirado de manera presencial.
+
+R4.-Actualización de inventario: Es necesaria la actualización de inventario al realizar compras o restock, ventas y al retornar productos. 
+
+R5.- Campañas automatizadas: Bajo ciertas condiciones el cliente podrá recibir por medio de correo electrónico promociones personalizadas dependiendo del evento. Ya sea campaña de cumpleaños del cliente, aniversario de la empresa, black friday, entre otros.
+
+R6.- Sistema de reportes: Se pide que el cliente tenga la capacidad de levantar reportes de disconformidad de manera que estas problemáticas puedan ser resueltas y utilizadas para las métricas de conformidad.
+
+R7.- Compatibilidad de impresión RFID: Se desea la implementación de un anexo al sistema capaz de realizar impresiones de etiquetas RFID para el seguimiento de los productos en tienda y bodega a la vez que realiza un conteo de los productos.
+
+R8.- Alertas de reposición: Se necesita  que el sistema alerte al encargado de la tienda cuando un producto está pronto de agotarse, agilizando la reposición de productos.  
+
+R9.- Historial de ventas: Al momento de realizar una compra se necesita que esta quede almacenada en un historial de compras con la fecha, hora y encargado de dicha venta en caso de ser una compra por medio del local, para ser utilizada en diferentes funcionalidades.
+
+R10.- Clasificación de clientes: Es esencial la existencia de un sistema de clasificación de roles o tags a los clientes en función de su rentabilidad o frecuencia de compra.

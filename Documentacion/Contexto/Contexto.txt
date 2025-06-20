@@ -1,0 +1,79 @@
+Retail: Plataforma Omnicanal para Tiendas de Ropa.
+
+Antecedentes Generales:
+
+    Empresa: ModaTrend (Cadena con 10 Tiendas Fisicas + Plataforma eCommerce).
+
+    Problematicas Principales:
+
+        - Desincronizacion de inventarios: 15% de ventas online canceladas por falta de stock.
+
+        - Reclamaciones por parte de clientes devido a la falta de promociones personalizadas.
+    
+Requerimientos Especificos Solicitados:
+
+    Funcionales:
+
+        - Sincronizacion en tiempo real de stock fisico/online.
+
+        - Motor de recomendacion basado en compras anteriores.
+
+        - Sistema de reserva en tienda (Sistema Click & Collect).
+
+    No Funcionales:
+
+        - Tiempo de respuesta menor a 2 segundos en busquedas.
+
+        - Soporte para 1.000 transacciones simultaneas
+
+        - API de pago Compatible con Stripe y MercadoPago.
+
+Funcionalidades Detalladas:
+
+    Gestion Unificada de Inventario:
+
+        - Actualizacion automatica al vender/comprar/retornar productos.
+
+        - Alertas de repocicion (ej: Quedan 3 jeans talla M en tienda Costanera).
+
+    CRM Integrado:
+
+        - Segmentacion por perfil (ej: Clientes VIP que compran cada 3 meses).
+
+        - Campañas de email automatizadas y personalizadas (ej: Cupon de descuento por tu cumpleaños).
+
+    Portal de Autogestion para Tiendas:
+
+        - Reportes de ventas por hora/empleado.
+
+        - Compativilidad para herramientas de impresion etiquetas RFID.
+
+Problematica detallada:
+
+    Situacion Actual:
+
+        Desincronizacion de Inventarios:
+
+            - 15% de ventas online canceladas por falta de stock.
+
+            - Exceso de inventario en tiendas con baja rotacion.
+
+        Marketing Generico:
+
+            - Campañas de email con solo 5% de tasa de apertura (no segmentadas).
+
+    Consecuencias:
+
+        Perdidas de Ventas: USD $150.000 anuales por cancelaciones.
+
+        Frustracion de Clientes: 25% de reviews negativas mencionan "falta de tallas".
+
+        Skateholders Afectados:
+
+            - Equipo de TI: Sobrecarga por soluciones parche (ej: excel compartido).
+
+            - Vendedores: Conflictos con clientes por informacion incorrecta.
+
+    Dato Critico:
+
+        - 60% de los clientes compran tanto online como en tienda, pero la empresa no vincula estos comportamientos.

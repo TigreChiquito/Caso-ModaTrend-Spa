@@ -1,0 +1,21 @@
+En este apartado se encuentran las necesidades del cliente y sistema que no son reflejadas directamente como una funcionalidad.
+
+R1.- Bajos tiempos de respuesta: Se requiere que los tiempos de búsqueda sea inferior a los 2 segundos, considerando como necesidad los bajos tiempos de respuesta.
+
+R2.- Soporte de alto flujo transaccional: Se necesita que el sistema pueda soportar como mínimo unas 1000 transacciones simultáneas debido al flujo estimado de clientes simultáneos.
+
+R3.- Compatibilidad con Stripe y MercadoPago: Para aumentar los éxitos de venta se requiere la compatibilidad con plataformas de pago como Stripe y métodos de pago como puede ser MercadoPago.
+
+R4.- Seguridad de datos de usuario: Debido a que se manejan datos sensibles de los usuarios es necesario tener altos estándares de seguridad, como pueden ser las ISO 27001, 27002 y 27018.
+
+R5.- Alta disponibilidad del servicio: Es necesario que el software opere de forma continua en un ideal del 90% de las ocasiones, teniendo como objetivo el minimizar periodos de inactividad.
+
+R6.- Accesibilidad: Se necesita una interfaz capaz de permitir el uso de esta por personas con dificultades visuales, entre otras. Buscando la claridad e intuitividad de la interfaz.
+
+R7.- Estabilidad del sistema: Es necesaria la capacidad para que el sistema pueda crecer de manera simple en caso de ser necesario.
+
+R8.- Respaldo y recuperación: Es requerida la capacidad de respaldar y recuperar la información de este asegurando la integridad, continuidad y accesibilidad de la información implicada.
+
+R9.- Localización y globalización: El sistema debe realizarse en inglés y español facilitando el acceso de nuevos clientes y la adaptación de nuevos recursos a la empresa.
+
+R10.- Responsividad del producto: Se necesita que el sistema pueda visualizarse de manera correcta en una variedad de dispositivos, incluyendo teléfonos, computadoras y tabletas.
