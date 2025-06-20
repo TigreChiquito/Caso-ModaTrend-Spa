@@ -2,10 +2,10 @@ Dentro de este apartado se encuentran los respectivos diagramas relacionados al 
 
 1.- Diagrama de Actividad: Ilustracion y representacion visual de las acciones, restricciones y requisitos junto a otros factores que intervienen en el flujo de las tareas.
 
-2.- Diagrama de Casos de Uso:
+2.- Diagrama de Casos de Uso: Muestra de manera simple las interacciones entre los usuarios involucrados con el sistema, detallando las funcionalidades a ofrecer.
 
-3.- Diagrama de componenetes:
+3.- Diagrama de componentes: Muestra la estructura fisica del sistema junto a las relaciones entre los principales componentes.
 
-4.- Diagrama de Clases:
+4.- Diagrama de Clases: Repredenta de manera ordenada la estructura estatica del sistema mostrando las clases, atributos, metodos y relaciones existentes.
 
-5.- Diagrama de Despliegue:
+5.- Diagrama de Despliegue: Describe la topologia de los componentes, a la vez que las conexiones fisicas.
