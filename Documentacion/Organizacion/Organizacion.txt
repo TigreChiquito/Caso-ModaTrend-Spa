@@ -1,0 +1,29 @@
+Metodologia de Trabajo: Metodologia de Cascada.
+
+Etapas del Proyecto:
+
+    - Requerimientos: Realizar entrevistas de acercamiento, toma de requerimientos, analisis de costos y beneficios, estimacion de tiempos y recursos.
+
+    - Diseño: Analisis de requerimientos, identificacion de soluciones optimas, toma de deciciones criticas (lenguajes, apis, arquitectura, etc) y decidir la mejor forma de integrar el software a la estructura TI.
+
+    - Desarrollo: Codificacion del producto.
+
+    - Testeo: Realizacion de pruebas automaticas y manuales para detectar errores, ademas de comprobar si se cumplieron los requisitos del cliente.
+
+    - Despliegue: Se sube el producto a produccion y empieza el proceso de capacitacion y marcha blanca.
+
+Equipo de trabajo:
+
+    - Jefe de Proyecto          -- x1 --    XXXX XXXX
+
+    - Desarrollador BackEnd     -- x3 --    XXXX XXXX
+
+    - Desarrollador FrontEnt    -- x3 --    XXXX XXXX
+
+    - Desarrollador Fullstack   -- x1 --    XXXX XXXX
+
+    - Desarrollador DevOps      -- x1 --    XXXX XXXX
+
+    - Diseñador Ux              -- x1 --    XXXX XXXX
+
+    - Analista QA               -- x2 --    XXXX XXXX
