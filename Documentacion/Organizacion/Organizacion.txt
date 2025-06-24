@@ -27,3 +27,8 @@ Equipo de trabajo:
     - Diseñador Ux              -- x1 --    XXXX XXXX
 
     - Analista QA               -- x2 --    XXXX XXXX
+
+
+Estimacion de Tiempos y Costos:
+
+En base al planteamiento inicial propuesto en la carta gant, el proyecto requerira de 12 meses + 10% de tiempo extra frente a problematicas en el desarrollo. Ademas de ser requerido un presupuesto estimado de unos $45.000.000 + 10% para posibles retrasos.
