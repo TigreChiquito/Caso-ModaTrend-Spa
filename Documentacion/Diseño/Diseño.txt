@@ -1,0 +1,10 @@
+Dentro de este apartado se plantearan las principales propuestas de diseño para las diferentes partes del sistema.
+
+1.-Inicio de sesión ,busqueda de producto y check out :
+
+    - Se incluye el registro del usuario (correo, contraseña, dirección, nombre del titular, etc.), la búsqueda de productos (precio, talla, unidad, color, etc.) y, por último, el proceso de pago (débito, crédito, tarjetas digitales, etc.).
+
+2.- Sketch plataforma web:
+
+    - Se coloca un modelado de la pagina web para el sistema de eCommerce basado en investigaciones de mercado.
+
